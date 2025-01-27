@@ -1,0 +1,43 @@
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - Process started with '--ide-token C:\Users\rodle\MPSSamples 2024.3\shapes\system\token --recorders FUS;MP;IJ_MAP;ML --device-fus 200724150ae9de8-67f5-46f4-ade1-7ae352c987da --bucket-fus 95 --machine-fus 4db1e02d30026053c15798512d206535e1aee574c2a4696d7da98fec5bf9a31b --id-revision-fus 0 --files-fus C:\Users\rodle\MPSSamples 2024.3\shapes\system\event-log-data\logs\FUS\9893-4a2a-bd0e-e4697966635f-243.21565.447-release.log;C:\Users\rodle\MPSSamples 2024.3\shapes\system\event-log-data\logs\FUS\b918-4bf1-a120-96871db2f3ae-243.21565.447-release.log --escape-fus false --device-mp 20072415dac085a-9e69-4f43-b8f1-4b25644692fb --bucket-mp 170 --machine-mp cfceaed57cb52e88a44a42716e33a278ed4e2516b82294bf5ed10b52d7537949 --id-revision-mp 0 --files-mp C:\Users\rodle\MPSSamples 2024.3\shapes\system\event-log-data\logs\MP\da34-4887-85a8-563dc5b947d5-243.21565.447-release.log --escape-mp false --device-ij_map 200724150ae9de8-67f5-46f4-ade1-7ae352c987da --bucket-ij_map 95 --machine-ij_map 4db1e02d30026053c15798512d206535e1aee574c2a4696d7da98fec5bf9a31b --id-revision-ij_map 0 --files-ij_map C:\Users\rodle\MPSSamples 2024.3\shapes\system\event-log-data\logs\IJ_MAP\e28b-4ffc-aa2d-4d1520ab5cc5-243.21565.447-release.log --escape-ij_map false --device-ml 200724150ae9de8-67f5-46f4-ade1-7ae352c987da --bucket-ml 95 --machine-ml 4db1e02d30026053c15798512d206535e1aee574c2a4696d7da98fec5bf9a31b --id-revision-ml 0 --files-ml C:\Users\rodle\MPSSamples 2024.3\shapes\system\event-log-data\logs\ML\5cff-4e4f-9ddd-b3ab19646e3a-243.21565.447-release.log --escape-ml false --url https://resources.jetbrains.com/storage/fus/config/v4/%s/%s.json --product MPS --product-version 2024.3 --baseline-version 243 --user-agent JetBrains MPS/243.21565.447 --extra-headers '
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - Classpath:C:\Program Files\JetBrains\MPS 2024.3\lib\util-8.jar;C:\Program Files\JetBrains\MPS 2024.3\lib\annotations.jar;C:\Program Files\JetBrains\MPS 2024.3\lib\lib.jar;C:\Program Files\JetBrains\MPS 2024.3\lib\stats.jar
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader.events - 1737673753916 STARTED ALL
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - IDE token file: C:\Users\rodle\MPSSamples 2024.3\shapes\system\token
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [MP] Start uploading...
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [IJ_MAP] Start uploading...
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [FUS] Start uploading...
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [ML] Start uploading...
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [FUS] {product:MPS, productVersion:2024.3, userAgent:JetBrains MPS/243.21565.447(External), url: https://resources.jetbrains.com/storage/fus/config/v4/%s/%s.json, internal:false, isTestConfig:false, isTestSendEndpoint:false}
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [MP] {product:MPS, productVersion:2024.3, userAgent:JetBrains MPS/243.21565.447(External), url: https://resources.jetbrains.com/storage/fus/config/v4/%s/%s.json, internal:false, isTestConfig:false, isTestSendEndpoint:false}
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [ML] {product:MPS, productVersion:2024.3, userAgent:JetBrains MPS/243.21565.447(External), url: https://resources.jetbrains.com/storage/fus/config/v4/%s/%s.json, internal:false, isTestConfig:false, isTestSendEndpoint:false}
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [IJ_MAP] {product:MPS, productVersion:2024.3, userAgent:JetBrains MPS/243.21565.447(External), url: https://resources.jetbrains.com/storage/fus/config/v4/%s/%s.json, internal:false, isTestConfig:false, isTestSendEndpoint:false}
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [ML] {recorder:ML, files:C:\Users\rodle\MPSSamples 2024.3\shapes\system\event-log-data\logs\ML\5cff-4e4f-9ddd-b3ab19646e3a-243.21565.447-release.log}
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [FUS] {recorder:FUS, files:C:\Users\rodle\MPSSamples 2024.3\shapes\system\event-log-data\logs\FUS\9893-4a2a-bd0e-e4697966635f-243.21565.447-release.log;C:\Users\rodle\MPSSamples 2024.3\shapes\system\event-log-data\logs\FUS\b918-4bf1-a120-96871db2f3ae-243.21565.447-release.log}
+23/01 17:09:13  INFO com.intellij.internal.statistic.uploader - [MP] {recorder:MP, files:C:\Users\rodle\MPSSamples 2024.3\shapes\system\event-log-data\logs\MP\da34-4887-85a8-563dc5b947d5-243.21565.447-release.log}
+23/01 17:09:14  INFO com.intellij.internal.statistic.uploader - [IJ_MAP] {recorder:IJ_MAP, files:C:\Users\rodle\MPSSamples 2024.3\shapes\system\event-log-data\logs\IJ_MAP\e28b-4ffc-aa2d-4d1520ab5cc5-243.21565.447-release.log}
+23/01 17:09:14  INFO com.intellij.internal.statistic.uploader - [MP] {device:20072415dac085a-9e69-4f43-b8f1-4b25644692fb, bucket:170}
+23/01 17:09:14  INFO com.intellij.internal.statistic.uploader - [IJ_MAP] {device:200724150ae9de8-67f5-46f4-ade1-7ae352c987da, bucket:95}
+23/01 17:09:14  INFO com.intellij.internal.statistic.uploader - [ML] {device:200724150ae9de8-67f5-46f4-ade1-7ae352c987da, bucket:95}
+23/01 17:09:14  INFO com.intellij.internal.statistic.uploader - [FUS] {device:200724150ae9de8-67f5-46f4-ade1-7ae352c987da, bucket:95}
+23/01 17:09:15  INFO com.intellij.internal.statistic.uploader.events - 1737673755540 FINISHED IJ_MAP ERROR_IN_CONFIG
+23/01 17:09:15 FINER com.intellij.internal.statistic.uploader - [IJ_MAP] Uploading finished with ERROR_IN_CONFIG
+23/01 17:09:15 FINER com.intellij.internal.statistic.uploader - [IJ_MAP] ERROR: settings server is unreachable
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - da34-4887-85a8-563dc5b947d5-243.21565.447-release.log -> ""
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - Removed sent log: da34-4887-85a8-563dc5b947d5-243.21565.447-release.log
+23/01 17:09:16  INFO com.intellij.internal.statistic.uploader.events - 1737673756287 SEND MP 1 0 1 [QzpcVXNlcnNccm9kbGVcTVBTU2FtcGxlcyAyMDI0LjNcc2hhcGVzXHN5c3RlbVxldmVudC1sb2ctZGF0YVxsb2dzXE1QXGRhMzQtNDg4Ny04NWE4LTU2M2RjNWI5NDdkNS0yNDMuMjE1NjUuNDQ3LXJlbGVhc2UubG9n] []
+23/01 17:09:16  INFO com.intellij.internal.statistic.uploader.events - 1737673756295 FINISHED MP
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - [MP] Uploading finished with SEND
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - [MP] Uploaded 1 files.
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - 5cff-4e4f-9ddd-b3ab19646e3a-243.21565.447-release.log -> ""
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - Removed sent log: 5cff-4e4f-9ddd-b3ab19646e3a-243.21565.447-release.log
+23/01 17:09:16  INFO com.intellij.internal.statistic.uploader.events - 1737673756302 SEND ML 1 0 1 [QzpcVXNlcnNccm9kbGVcTVBTU2FtcGxlcyAyMDI0LjNcc2hhcGVzXHN5c3RlbVxldmVudC1sb2ctZGF0YVxsb2dzXE1MXDVjZmYtNGU0Zi05ZGRkLWIzYWIxOTY0NmUzYS0yNDMuMjE1NjUuNDQ3LXJlbGVhc2UubG9n] []
+23/01 17:09:16  INFO com.intellij.internal.statistic.uploader.events - 1737673756303 FINISHED ML
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - [ML] Uploading finished with SEND
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - [ML] Uploaded 1 files.
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - 9893-4a2a-bd0e-e4697966635f-243.21565.447-release.log -> ""
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - b918-4bf1-a120-96871db2f3ae-243.21565.447-release.log -> ""
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - Removed sent log: 9893-4a2a-bd0e-e4697966635f-243.21565.447-release.log
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - Removed sent log: b918-4bf1-a120-96871db2f3ae-243.21565.447-release.log
+23/01 17:09:16  INFO com.intellij.internal.statistic.uploader.events - 1737673756992 SEND FUS 2 0 2 [QzpcVXNlcnNccm9kbGVcTVBTU2FtcGxlcyAyMDI0LjNcc2hhcGVzXHN5c3RlbVxldmVudC1sb2ctZGF0YVxsb2dzXEZVU1w5ODkzLTRhMmEtYmQwZS1lNDY5Nzk2NjYzNWYtMjQzLjIxNTY1LjQ0Ny1yZWxlYXNlLmxvZw==,QzpcVXNlcnNccm9kbGVcTVBTU2FtcGxlcyAyMDI0LjNcc2hhcGVzXHN5c3RlbVxldmVudC1sb2ctZGF0YVxsb2dzXEZVU1xiOTE4LTRiZjEtYTEyMC05Njg3MWRiMmYzYWUtMjQzLjIxNTY1LjQ0Ny1yZWxlYXNlLmxvZw==] []
+23/01 17:09:16  INFO com.intellij.internal.statistic.uploader.events - 1737673756994 FINISHED FUS
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - [FUS] Uploading finished with SEND
+23/01 17:09:16 FINER com.intellij.internal.statistic.uploader - [FUS] Uploaded 2 files.

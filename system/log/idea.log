@@ -1,0 +1,320 @@
+2025-01-23 17:08:39,157 [      4]   INFO - #c.i.p.i.b.AppStarter - ------------------------------------------------------ IDE STARTED ------------------------------------------------------
+2025-01-23 17:08:39,191 [     38]   INFO - #c.i.p.i.b.AppStarter - JNA library (64-bit) loaded in 16 ms
+2025-01-23 17:08:39,197 [     44]   INFO - #c.i.p.i.b.AppStarter - IDE: JetBrains MPS (build #MPS-243.21565.447, Fri, 17 Jan 2025 00:00:00 GMT)
+2025-01-23 17:08:39,197 [     44]   INFO - #c.i.p.i.b.AppStarter - OS: Windows (11.0)
+2025-01-23 17:08:39,197 [     44]   INFO - #c.i.p.i.b.AppStarter - JRE: 21.0.5+8-b631.16, amd64 (JetBrains s.r.o.)
+2025-01-23 17:08:39,198 [     45]   INFO - #c.i.p.i.b.AppStarter - JVM: 21.0.5+8-b631.16 (OpenJDK 64-Bit Server VM)
+2025-01-23 17:08:39,200 [     47]   INFO - #c.i.p.i.b.AppStarter - PID: 19608
+2025-01-23 17:08:39,216 [     63]   INFO - #c.i.p.i.b.AppStarter - JVM options: [-Didea.config.path=C:\Users\rodle\MPSSamples 2024.3\shapes\config, -Didea.system.path=C:\Users\rodle\MPSSamples 2024.3\shapes\system, -Didea.plugins.path=C:\Users\rodle\MPSSamples 2024.3\shapes\config\plugins, -Didea.log.path=C:\Users\rodle\MPSSamples 2024.3\shapes\system\log, -Djna.boot.library.path=C:\Program Files\JetBrains\MPS 2024.3\lib\jna, -Dide.httpsupport.internalPort=63321, --add-opens=java.base/java.io=ALL-UNNAMED, --add-opens=java.base/java.lang=ALL-UNNAMED, --add-opens=java.base/java.lang.reflect=ALL-UNNAMED, --add-opens=java.base/java.net=ALL-UNNAMED, --add-opens=java.base/java.nio=ALL-UNNAMED, --add-opens=java.base/java.nio.charset=ALL-UNNAMED, --add-opens=java.base/java.text=ALL-UNNAMED, --add-opens=java.base/java.time=ALL-UNNAMED, --add-opens=java.base/java.util=ALL-UNNAMED, --add-opens=java.base/java.util.concurrent=ALL-UNNAMED, --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED, --add-opens=java.base/jdk.internal.vm=ALL-UNNAMED, --add-opens=java.base/sun.nio.ch=ALL-UNNAMED, --add-opens=java.base/sun.nio.fs=ALL-UNNAMED, --add-opens=java.base/sun.security.ssl=ALL-UNNAMED, --add-opens=java.base/sun.security.util=ALL-UNNAMED, --add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED, --add-opens=java.desktop/com.apple.eawt.event=ALL-UNNAMED, --add-opens=java.desktop/com.apple.laf=ALL-UNNAMED, --add-opens=java.desktop/java.awt=ALL-UNNAMED, --add-opens=java.desktop/java.awt.dnd.peer=ALL-UNNAMED, --add-opens=java.desktop/java.awt.event=ALL-UNNAMED, --add-opens=java.desktop/java.awt.image=ALL-UNNAMED, --add-opens=java.desktop/java.awt.peer=ALL-UNNAMED, --add-opens=java.desktop/javax.swing=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.text=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.datatransfer=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.image=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.windows=ALL-UNNAMED, --add-opens=java.desktop/sun.awt=ALL-UNNAMED, --add-opens=java.desktop/sun.font=ALL-UNNAMED, --add-opens=java.desktop/sun.java2d=ALL-UNNAMED, --add-opens=java.desktop/sun.swing=ALL-UNNAMED, --add-opens=jdk.attach/sun.tools.attach=ALL-UNNAMED, --add-opens=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED, --add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED, --add-opens=jdk.jdi/com.sun.tools.jdi=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.X11=ALL-UNNAMED, -DjbScreenMenuBar.enabled=true, -DjbScreenMenuBar.useStubItem=true, -Dintellij.platform.load.app.info.from.resources=true, -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader, -Dij.startup.error.report.url=https://youtrack.jetbrains.com/newissue?project=MPS&clearDraft=true&summary=$TITLE$&description=$DESCR$]
+2025-01-23 17:08:39,218 [     65]   INFO - #c.i.p.i.b.AppStarter - args: 
+2025-01-23 17:08:39,218 [     65]   INFO - #c.i.p.i.b.AppStarter - library path: C:\Program Files\JetBrains\MPS 2024.3\jbr\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;c:\devkitPro\msys2\usr\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Graphviz\bin;C:\Tools\chromedriver;C:\Users\rodle\.cargo\bin;C:\Users\rodle\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\rodle\AppData\Local\Programs\Python\Python312\;C:\Users\rodle\AppData\Local\Microsoft\WindowsApps;C:\Users\rodle\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rodle\.dotnet\tools;C:\Users\rodle\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Users\rodle\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\rodle\AppData\Roaming\npm;C:\Program Files\Graphviz\bin;C:\Users\rodle\.deno\bin;C:\Users\rodle\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\rodle\.dotnet\tools;C:\Program Files\apache\maven\apache-maven-3.9.9;;.
+2025-01-23 17:08:39,218 [     65]   INFO - #c.i.p.i.b.AppStarter - boot library path: C:\Program Files\JetBrains\MPS 2024.3\jbr\bin
+2025-01-23 17:08:39,224 [     71]   INFO - #c.i.p.i.b.AppStarter - locale=en_US JNU=Cp1252 file.encoding=UTF-8
+    idea.config.path=C:\Users\rodle\MPSSamples 2024.3\shapes\config
+    idea.system.path=C:\Users\rodle\MPSSamples 2024.3\shapes\system
+    idea.plugins.path=C:\Users\rodle\MPSSamples 2024.3\shapes\config\plugins -> java.nio.file.NoSuchFileException: C:\Users\rodle\MPSSamples 2024.3\shapes\config\plugins
+    idea.log.path=C:\Users\rodle\MPSSamples 2024.3\shapes\system\log
+2025-01-23 17:08:39,229 [     76]   INFO - #c.i.p.i.b.AppStarter - CPU cores: 16; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@38fc4a44[Running, parallelism = 15, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@4c07ab0b
+2025-01-23 17:08:39,272 [    119]   INFO - #c.i.u.s.JBUIScale - System scale factor: 1.25 (JRE-managed HiDPI)
+2025-01-23 17:08:39,277 [    124]   INFO - #c.i.u.s.JBUIScale - Computed user scale factor: 1.0 (JRE-managed HiDPI)
+2025-01-23 17:08:39,488 [    335]   INFO - #c.i.p.i.b.AppStarter - Importing configs to C:\Users\rodle\MPSSamples 2024.3\shapes\config
+2025-01-23 17:08:39,490 [    337]   INFO - #c.i.p.i.b.AppStarter - Custom migration option: null
+2025-01-23 17:08:39,491 [    338]   INFO - #c.i.p.i.b.AppStarter - Custom ConfigImportSettings instance: null
+2025-01-23 17:08:39,520 [    367]   INFO - #c.i.p.i.b.AppStarter - No configs imported, starting with clean configs at C:\Users\rodle\MPSSamples 2024.3\shapes\config
+2025-01-23 17:08:39,533 [    380]   INFO - #c.i.p.i.b.AppStarter - Will enter initial app wizard flow.
+2025-01-23 17:08:39,616 [    463]   INFO - #c.i.i.p.PluginManager - Plugin PluginDescriptor(name=MPS Build Languages, id=jetbrains.mps.build, descriptorPath=plugin.xml, path=C:\Program Files\JetBrains\MPS 2024.3\plugins\mps-build, version=2024.3, package=null, isBundled=true) misses optional descriptor pluginSolutions.xml
+2025-01-23 17:08:39,732 [    579]   INFO - #c.i.i.p.PluginManager - Module intellij.markdown.frontmatter.toml is not enabled because dependency org.intellij.intelliLang is not available
+Module intellij.markdown.frontmatter.yaml is not enabled because dependency org.intellij.intelliLang is not available
+Module intellij.markdown.frontmatter is not enabled because dependency org.intellij.intelliLang is not available
+Module intellij.markdown.fenceInjection is not enabled because dependency org.intellij.intelliLang is not available
+Module intellij.terminal/cloud is not enabled because dependency com.intellij.modules.remoteServers is not available
+Module intellij.sh.python is not enabled because dependency com.intellij.modules.python is not available
+Module intellij.platform.clouds is not enabled because dependency com.intellij.modules.remoteServers is not available
+Module intellij.vcs.git.coverage is not enabled because dependency intellij.platform.coverage is not available
+Module intellij.vcs.git/newUiOnboarding is not enabled because dependency intellij.platform.ide.newUiOnboarding is not available
+2025-01-23 17:08:39,756 [    603]   INFO - #c.i.i.p.PluginManager - Loaded bundled plugins: IDEA CORE (243.21565.447), Windows 10 Light Theme (243.21565.495), Images (243.21565.495), JSON (243.21565.495), Markdown (243.21565.495), Terminal (243.21565.495), Properties (243.21565.495), Resource Bundle Editor (243.21565.495), Shell Script (243.21565.495), Make (243.21565.447), Copyright (243.21565.495), Task Management (243.21565.495), MPS Model Checker (243.21565.447), Execution Api and Utility Languages (243.21565.447), MPS HTTP Navigation Support (243.21565.447), Spell Check in MPS Editors (2024.3), MPS Core (243.21565.447), MPS Navigation Bar (2024.3), MPS Console (243.21565.447), Trove Collections language for MPS (2024.3), Migration Support (243.21565.447), Migration 2024.3 (2024.3), MPS JUnit5 support (2024.3), Debugger API for MPS (243.21565.447), MPS Context Actions Tool (243.21565.447), MPS RCP Facilities (2024.3), MPS IDE Facilities (2024.3), MPS Testing (2024.3), MPS Languages DevKit (2024.3), MPS Samples (243.21565.447), Jetpad (243.21565.447), MPS Diagram Editor (243.21565.447), Kotlin MPS (243.21565.447), MPS Tooltips (243.21565.447), GitHub (243.21565.495-community), Backup and Sync (243.21565.495), Git (243.21565.495), ChangeReminder (243.21565.495), MPS Git integration - stubs (2024.3), Memory Tool (243.21565.447), Java Debugger for MPS (243.21565.447), Execution Languages (243.21565.447), Execution Configurations (243.21565.447), MPS Ant Integration: Make (2024.3), Subversion (243.21565.495), VCS Integration for MPS (243.21565.447), MPS Java Integration (243.21565.447), MPS Build Languages (2024.3), MPS Build Wizard (2024.3)
+2025-01-23 17:08:39,849 [    696]   INFO - c.i.p.i.IdeFingerprint - Calculated dependencies fingerprint in 5 ms (hash=3fm3sun0x5gmv, buildTime=1737072000, appVersion=MPS-243.21565.447)
+2025-01-23 17:08:39,924 [    771]   INFO - #c.i.o.a.ConfigImportHelper - [i18n] Localization property from registry is null
+2025-01-23 17:08:39,928 [    775]   INFO - #c.i.a.o.PathMacrosImpl - Loaded path macros: {}
+2025-01-23 17:08:40,057 [    904]   INFO - #c.i.i.p.ExpiredPluginsState - Plugins to skip: []
+2025-01-23 17:08:40,127 [    974]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2025-01-23 17:08:40,128 [    975]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2025-01-23 17:08:40,128 [    975]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 4181721088
+2025-01-23 17:08:40,128 [    975]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2025-01-23 17:08:40,130 [    977]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2025-01-23 17:08:40,130 [    977]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2025-01-23 17:08:40,131 [    978]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2025-01-23 17:08:40,132 [    979]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 104857600 bytes
+2025-01-23 17:08:40,156 [   1003]   INFO - #c.i.o.v.n.p.PersistentFSLoader - VFS uses names enumerator over mmapped file
+2025-01-23 17:08:40,159 [   1006]   INFO - #c.i.o.v.n.p.PersistentFSLoader - VFS uses streamlined attributes storage (over mmapped file)
+2025-01-23 17:08:40,161 [   1008]   WARN - #c.i.o.v.n.p.PersistentFSLoader - ContentStorage.pageSize(=67108864) must be > FileUtilRt.LARGE_FOR_CONTENT_LOADING(=102400000b), otherwise large content can't fit
+2025-01-23 17:08:40,162 [   1009]   INFO - #c.i.o.v.n.p.PersistentFSLoader - VFS uses OverMMappedFile(pageSize=67108864, acquireStorageOwnership=true) storage for main file records table
+2025-01-23 17:08:40,164 [   1011]   INFO - #c.i.o.v.n.p.PersistentFSLoader - VFS uses content storage over memory-mapped file, with compression algo: LZ4[ > 8000b ]
+2025-01-23 17:08:40,221 [   1068]   INFO - #c.i.o.a.i.ActionManagerImpl - 'ConvertIndentsGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,222 [   1069]   INFO - #c.i.o.a.i.ActionManagerImpl - 'Macros' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,224 [   1071]   INFO - #c.i.o.a.i.ActionManagerImpl - 'EditorBidiTextDirection' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,228 [   1075]   INFO - #c.i.o.a.i.ActionManagerImpl - 'ShowRecentFindUsagesGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,228 [   1075]   INFO - #c.i.o.a.i.ActionManagerImpl - 'EditBookmarksGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,231 [   1078]   INFO - #c.i.u.i.c.d.IndexWriter - Use com.intellij.util.indexing.contentQueue.dev.MultiThreadedWithSuspendIndexWriter@7424c9 as (parallel) index writer implementation
+2025-01-23 17:08:40,238 [   1085]   INFO - #c.i.u.i.i.SlruIndexStorageCacheProvider - SLRU cache will be used for indexes
+2025-01-23 17:08:40,239 [   1086]   INFO - #c.i.u.i.i.MapIndexStorageCacheProvider$Companion - Default index storage cache provider [com.intellij.util.indexing.impl.SlruIndexStorageCacheProvider@7314a55f] is used
+2025-01-23 17:08:40,242 [   1089]   INFO - #c.i.o.a.i.ActionManagerImpl - 'CodeCompletionGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,244 [   1091]   INFO - #c.i.o.a.i.ActionManagerImpl - 'FoldingGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,245 [   1092]   INFO - #c.i.o.a.i.ActionManagerImpl - 'ExpandToLevel' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,245 [   1092]   INFO - #c.i.o.a.i.ActionManagerImpl - 'ExpandAllToLevel' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,250 [   1097]   INFO - #c.i.o.a.i.ActionManagerImpl - 'RefactoringMenu' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,260 [   1107]   INFO - #c.i.o.a.i.ActionManagerImpl - 'Bookmarks' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,264 [   1111]   INFO - #c.i.o.a.i.ActionManagerImpl - 'MarkRootGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,266 [   1113]   INFO - #c.i.o.a.i.ActionManagerImpl - 'EditorPopupMenu.GoTo' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,275 [   1122]   INFO - #c.i.o.a.i.ActionManagerImpl - 'XDebugger.Watches.Inline.Popup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,276 [   1123]   INFO - #c.i.o.a.i.ActionManagerImpl - 'XDebugger.Settings' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,281 [   1128]   INFO - #c.i.o.a.i.ActionManagerImpl - 'TodoViewGroupByGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,283 [   1130]   INFO - #c.i.o.a.i.ActionManagerImpl - 'ToolsXmlGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:08:40,466 [   1313]   INFO - #c.i.o.v.n.p.PersistentFSLoader - VFS: impl (expected) version=846400, 0 file records, 0 content blobs
+2025-01-23 17:08:40,469 [   1316]   INFO - #o.j.i.SubServer - Built-in sub-server 'MPSInternalPortManager' started on port 63321
+2025-01-23 17:08:40,485 [   1332]   INFO - #o.j.i.SubServer - Built-in sub-server 'MPSIntegrationPortManager' started on port 63331
+2025-01-23 17:08:40,486 [   1333]   INFO - #o.j.i.BuiltInServerManager - built-in server started, port 63343
+2025-01-23 17:08:40,489 [   1336]   INFO - #c.i.o.v.n.p.FSRecordsImpl - VFS initialized: 396 ms, 0 failed attempts, 0 error(s) were recovered
+2025-01-23 17:08:40,491 [   1338]   INFO - #c.i.o.v.n.p.FSRecordsImpl - VFS scanned: file-by-name index was populated
+2025-01-23 17:08:40,534 [   1381]   INFO - #c.i.u.n.s.CertificateManager - Default SSL context initialized
+2025-01-23 17:08:40,558 [   1405]   INFO - #c.i.h.u.LocalHistoryLog - local history version mismatch (was: 0, expected: 7), rebuilding...
+2025-01-23 17:08:40,558 [   1405]   INFO - #c.i.h.u.LocalHistoryLog - FS has been rebuild, rebuilding local history...
+2025-01-23 17:08:40,575 [   1422]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\JetBrains\MPS 2024.3\bin\fsnotifier.exe
+2025-01-23 17:08:40,607 [   1454]   INFO - #c.i.u.n.IdeProxySelector - unable to autodetect proxy settings, using NO_PROXY
+2025-01-23 17:08:40,615 [   1462]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Native file watcher is operational.
+2025-01-23 17:08:40,619 [   1466]   INFO - #c.i.o.v.i.w.WslFileWatcher - WSL file watcher: C:\Program Files\JetBrains\MPS 2024.3\bin\fsnotifier-wsl
+2025-01-23 17:08:40,938 [   1785]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from BootstrapLibraryContributor
+2025-01-23 17:08:40,938 [   1785]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from WorkbenchLibraryContributor
+2025-01-23 17:08:40,938 [   1785]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from PluginLibraryContributor
+2025-01-23 17:08:40,938 [   1785]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor
+2025-01-23 17:08:40,968 [   1815]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'fileIncludes' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,968 [   1815]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'RelaxSymbolIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,968 [   1815]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'html5.custom.attributes.index' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,968 [   1815]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'IdIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,968 [   1815]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'filetypes' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,968 [   1815]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'XmlNamespaces' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,970 [   1817]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'mps.NodeUsage' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,971 [   1818]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'Stubs' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,972 [   1819]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 37 libraries
+2025-01-23 17:08:40,972 [   1819]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'SchemaTypeInheritance' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,973 [   1820]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'DomFileIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,974 [   1821]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'XmlTagNames' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,978 [   1825]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'TodoIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,978 [   1825]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'Trigram.Index' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,980 [   1827]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'FilenameIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,984 [   1831]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'FrameworkDetectionIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:40,990 [   1837]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'mps.RootNodeName' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:41,043 [   1890]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'mps.propvalue' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:41,058 [   1905]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'xmlProperties' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:41,061 [   1908]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'ModelDigest2' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:41,063 [   1910]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'json.file.root.values' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:41,064 [   1911]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'mps.ClassifierSuccessors' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:41,066 [   1913]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'BinaryModelDigest2' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:08:41,117 [   1964]   INFO - #c.i.u.i.FileBasedIndexImpl - Indices to be built:filetypes(v = 4096),xmlProperties(v = 2),RelaxSymbolIndex(v = 0),mps.ClassifierSuccessors(v = 1),mps.RootNodeName(v = 1),DomFileIndex(v = 0),SchemaTypeInheritance(v = 2),mps.propvalue(v = 2),BinaryModelDigest2(v = 1),Stubs(v = 46),fileIncludes(v = 6),FrameworkDetectionIndex(v = 65536),Trigram.Index(v = 4),XmlNamespaces(v = 8),TodoIndex(v = 13),ModelDigest2(v = 1),json.file.root.values(v = 5),FilenameIndex(v = 258),mps.NodeUsage(v = 1),IdIndex(v = 22),XmlTagNames(v = 1),html5.custom.attributes.index(v = 1)
+2025-01-23 17:08:41,119 [   1966]   INFO - #c.i.u.i.FileBasedIndexImpl - Using nice flusher for indexes
+2025-01-23 17:08:41,125 [   1972]   INFO - #c.i.u.i.IndexDataInitializer - Index data initialization done: 583 ms. Initialized indexes: [FilenameIndex, mps.RootNodeName, XmlTagNames, SchemaTypeInheritance, XmlNamespaces, html5.custom.attributes.index, mps.NodeUsage, RelaxSymbolIndex, DomFileIndex, filetypes, Trigram.Index, mps.propvalue, ModelDigest2, BinaryModelDigest2, xmlProperties, json.file.root.values, mps.ClassifierSuccessors, TodoIndex, IdIndex, fileIncludes, FrameworkDetectionIndex, Stubs].
+2025-01-23 17:08:41,172 [   2019]   INFO - #c.i.p.s.StubIndexImpl - Following stub indices will be built:markdown.header.anchor(v = 2),properties.index(v = 2),dom.elementClass(v = 0),markdown.header(v = 2),dom.namespaceKey(v = 1)
+2025-01-23 17:08:41,175 [   2022]   INFO - #c.i.u.i.IndexDataInitializer - Index data initialization done: 49 ms. Initialized stub indexes: {markdown.header.anchor, dom.namespaceKey, markdown.header, dom.elementClass, properties.index}.
+2025-01-23 17:08:45,299 [   6146]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished
+2025-01-23 17:08:45,339 [   6186]   INFO - jetbrains.mps.classloading.ModulesWatcher - No modules marked invalid for class loading after updating 416 (416 total in the graph)
+2025-01-23 17:08:45,344 [   6191]   INFO - jetbrains.mps.classloading.ModulesWatcher - Classloading graph update took 0.038 s (of that, graph refresh 0.017 s)
+2025-01-23 17:08:46,296 [   7143]   INFO - jetbrains.mps.plugins.PluginLoaderRegistry - Running Update Task : loaders ∆[load:1; unload:0]; contributors : [+188 / -0]; Thread[#50,AWT-EventQueue-0,6,main]
+2025-01-23 17:08:46,424 [   7271]   WARN - jetbrains.mps.plugins.applicationplugins.BaseApplicationPlugin - Destination group was not found id: Internal. Trying to insert jetbrains.mps.ide.actions.ToolsInternal_ActionGroup
+2025-01-23 17:08:47,301 [   8148]   INFO - jetbrains.mps.plugins.PluginLoaderRegistry - Loading of 6 plugins took 1.003 s
+2025-01-23 17:08:47,679 [   8526]   INFO - jetbrains.mps.plugins.PluginLoaderRegistry - Loading of 188 plugins took 0.377 s
+2025-01-23 17:08:47,685 [   8532]   INFO - #c.i.p.i.b.IdeStartupWizard - Entering startup wizard workflow.
+2025-01-23 17:08:47,690 [   8537]   INFO - #c.i.o.v.n.p.FSRecords - VFS health-check enabled: first after 600000 ms, and each following 43200000 ms, wrap in RA: true
+2025-01-23 17:08:47,697 [   8544]   INFO - #c.i.p.i.b.IdeStartupWizard - IDE startup isEnabled = false, IDEStartupKind = Control, IDEStartup = 2
+2025-01-23 17:08:47,702 [   8549]   INFO - #c.i.s.m.SettingsRepositoryToSettingsSyncMigration - No data from settingsRepository in 'settingsRepository' folder => no migration needed
+2025-01-23 17:08:47,754 [   8601]   INFO - #c.i.o.u.i.UpdateCheckerService - channel: release
+2025-01-23 17:08:47,779 [   8626]   INFO - #c.i.o.a.ConfigImportHelper - [i18n] Localization property from registry is null
+2025-01-23 17:08:47,810 [   8657]   INFO - #c.i.DynamicBundle - Cleanup bundle cache for messages.UIBundle
+2025-01-23 17:08:47,899 [   8746]   INFO - #c.i.DynamicBundle - Cleanup bundle cache for messages.IdeBundle
+2025-01-23 17:08:47,905 [   8752]   INFO - #c.i.DynamicBundle - Cleanup bundle cache for messages.ActionsBundle
+2025-01-23 17:08:48,207 [   9054]   INFO - #c.i.DynamicBundle - Cleanup bundle cache for messages.CommonBundle
+2025-01-23 17:08:48,671 [   9518]   INFO - #c.i.i.p.m.MarketplaceRequests - Error reading Marketplace file: com.fasterxml.jackson.databind.JsonMappingException: Unexpected end-of-input in field name
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1384001] (through reference chain: java.util.ArrayList[10104]) (file=C:\Users\rodle\MPSSamples 2024.3\shapes\system\plugins\brokenPlugins.json URL=https://plugins.jetbrains.com/files/brokenPlugins.json)
+2025-01-23 17:08:48,672 [   9519]   INFO - #c.i.i.p.m.MarketplaceRequests - Can not get broken plugins file from Marketplace: Unexpected end-of-input in field name
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 1384001] (through reference chain: java.util.ArrayList[10104])
+2025-01-23 17:08:50,758 [  11605]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Loading global entities com.intellij.platform.workspace.jps.entities.SdkEntity from files
+2025-01-23 17:08:50,760 [  11607]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Loading global entities com.intellij.platform.workspace.jps.entities.LibraryEntity from files
+2025-01-23 17:08:50,774 [  11621]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-01-23 17:08:50,776 [  11623]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-01-23 17:08:50,856 [  11703]   INFO - #c.i.a.o.PathMacrosImpl - Saved path macros: {}
+2025-01-23 17:08:50,880 [  11727]   INFO - #c.i.c.ComponentStoreImpl - Saving appFileTypeManager took 12 ms
+2025-01-23 17:08:50,932 [  11779]   INFO - #c.i.DynamicBundle - Cleanup bundle cache for messages.CoreBundle
+2025-01-23 17:08:51,005 [  11852]   INFO - #c.i.i.s.e.u.EventLogExternalUploader - Started external process for uploading event log
+2025-01-23 17:08:51,028 [  11875]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Watcher terminated with exit code 0
+2025-01-23 17:08:51,052 [  11899]   INFO - #fleet.kernel.Transactor - shutting down kernel Kernel(53mj8jbm1j8jvth5p981)
+2025-01-23 17:08:51,060 [  11907]   INFO - #o.j.i.BuiltInServer - web server stopped
+2025-01-23 17:08:51,065 [  11912]   INFO - #c.i.d.JVMResponsivenessMonitor - Sampling thread interrupted -> stop sampling
+2025-01-23 17:08:51,065 [  11912]   INFO - #c.i.d.JVMResponsivenessMonitor - Sampling thread exiting normally
+2025-01-23 17:08:51,065 [  11912]   INFO - jetbrains.mps.library.LibraryInitializer - Removing libraries from SetLibraryContributor
+2025-01-23 17:08:51,066 [  11913]   INFO - jetbrains.mps.library.LibraryInitializer - Removing libraries from PluginLibraryContributor
+2025-01-23 17:08:51,066 [  11913]   INFO - jetbrains.mps.library.LibraryInitializer - Removing libraries from WorkbenchLibraryContributor
+2025-01-23 17:08:51,066 [  11913]   INFO - jetbrains.mps.library.LibraryInitializer - Removing libraries from BootstrapLibraryContributor
+2025-01-23 17:08:51,066 [  11913]   INFO - jetbrains.mps.library.LibraryInitializer - Unloading 37 libraries
+2025-01-23 17:09:02,156 [      5]   INFO - #c.i.p.i.b.AppStarter - ------------------------------------------------------ IDE STARTED ------------------------------------------------------
+2025-01-23 17:09:02,193 [     42]   INFO - #c.i.i.p.PluginManager - Module intellij.markdown.frontmatter.toml is not enabled because dependency org.intellij.intelliLang is not available
+Module intellij.markdown.frontmatter.yaml is not enabled because dependency org.intellij.intelliLang is not available
+Module intellij.markdown.frontmatter is not enabled because dependency org.intellij.intelliLang is not available
+Module intellij.markdown.fenceInjection is not enabled because dependency org.intellij.intelliLang is not available
+Module intellij.terminal/cloud is not enabled because dependency com.intellij.modules.remoteServers is not available
+Module intellij.sh.python is not enabled because dependency com.intellij.modules.python is not available
+Module intellij.platform.clouds is not enabled because dependency com.intellij.modules.remoteServers is not available
+Module intellij.vcs.git.coverage is not enabled because dependency intellij.platform.coverage is not available
+Module intellij.vcs.git/newUiOnboarding is not enabled because dependency intellij.platform.ide.newUiOnboarding is not available
+2025-01-23 17:09:02,199 [     48]   INFO - #c.i.p.i.b.AppStarter - JNA library (64-bit) loaded in 21 ms
+2025-01-23 17:09:02,200 [     49]   INFO - #c.i.u.s.JBUIScale - System scale factor: 1.25 (JRE-managed HiDPI)
+2025-01-23 17:09:02,205 [     54]   INFO - #c.i.p.i.b.AppStarter - IDE: JetBrains MPS (build #MPS-243.21565.447, Fri, 17 Jan 2025 00:00:00 GMT)
+2025-01-23 17:09:02,205 [     54]   INFO - #c.i.p.i.b.AppStarter - OS: Windows (11.0)
+2025-01-23 17:09:02,206 [     55]   INFO - #c.i.p.i.b.AppStarter - JRE: 21.0.5+8-b631.16, amd64 (JetBrains s.r.o.)
+2025-01-23 17:09:02,206 [     55]   INFO - #c.i.p.i.b.AppStarter - JVM: 21.0.5+8-b631.16 (OpenJDK 64-Bit Server VM)
+2025-01-23 17:09:02,208 [     57]   INFO - #c.i.u.s.JBUIScale - Computed user scale factor: 1.0 (JRE-managed HiDPI)
+2025-01-23 17:09:02,209 [     58]   INFO - #c.i.p.i.b.AppStarter - PID: 13076
+2025-01-23 17:09:02,220 [     69]   INFO - #c.i.i.p.PluginManager - Loaded bundled plugins: IDEA CORE (243.21565.447), Windows 10 Light Theme (243.21565.495), Images (243.21565.495), JSON (243.21565.495), Markdown (243.21565.495), Terminal (243.21565.495), Properties (243.21565.495), Resource Bundle Editor (243.21565.495), Shell Script (243.21565.495), Make (243.21565.447), Copyright (243.21565.495), Task Management (243.21565.495), MPS Model Checker (243.21565.447), Execution Api and Utility Languages (243.21565.447), MPS HTTP Navigation Support (243.21565.447), Spell Check in MPS Editors (2024.3), MPS Core (243.21565.447), MPS Navigation Bar (2024.3), MPS Console (243.21565.447), Trove Collections language for MPS (2024.3), Migration Support (243.21565.447), Migration 2024.3 (2024.3), MPS JUnit5 support (2024.3), Debugger API for MPS (243.21565.447), MPS Context Actions Tool (243.21565.447), MPS RCP Facilities (2024.3), MPS IDE Facilities (2024.3), MPS Testing (2024.3), MPS Languages DevKit (2024.3), MPS Samples (243.21565.447), Jetpad (243.21565.447), MPS Diagram Editor (243.21565.447), Kotlin MPS (243.21565.447), MPS Tooltips (243.21565.447), GitHub (243.21565.495-community), Backup and Sync (243.21565.495), Git (243.21565.495), ChangeReminder (243.21565.495), MPS Git integration - stubs (2024.3), Memory Tool (243.21565.447), Java Debugger for MPS (243.21565.447), Execution Languages (243.21565.447), Execution Configurations (243.21565.447), MPS Ant Integration: Make (2024.3), Subversion (243.21565.495), VCS Integration for MPS (243.21565.447), MPS Java Integration (243.21565.447), MPS Build Languages (2024.3), MPS Build Wizard (2024.3)
+2025-01-23 17:09:02,226 [     75]   INFO - #c.i.p.i.b.AppStarter - JVM options: [-Didea.config.path=C:\Users\rodle\MPSSamples 2024.3\shapes\config, -Didea.system.path=C:\Users\rodle\MPSSamples 2024.3\shapes\system, -Didea.plugins.path=C:\Users\rodle\MPSSamples 2024.3\shapes\config\plugins, -Didea.log.path=C:\Users\rodle\MPSSamples 2024.3\shapes\system\log, -Djna.boot.library.path=C:\Program Files\JetBrains\MPS 2024.3\lib\jna, -Dide.httpsupport.internalPort=63321, --add-opens=java.base/java.io=ALL-UNNAMED, --add-opens=java.base/java.lang=ALL-UNNAMED, --add-opens=java.base/java.lang.reflect=ALL-UNNAMED, --add-opens=java.base/java.net=ALL-UNNAMED, --add-opens=java.base/java.nio=ALL-UNNAMED, --add-opens=java.base/java.nio.charset=ALL-UNNAMED, --add-opens=java.base/java.text=ALL-UNNAMED, --add-opens=java.base/java.time=ALL-UNNAMED, --add-opens=java.base/java.util=ALL-UNNAMED, --add-opens=java.base/java.util.concurrent=ALL-UNNAMED, --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED, --add-opens=java.base/jdk.internal.vm=ALL-UNNAMED, --add-opens=java.base/sun.nio.ch=ALL-UNNAMED, --add-opens=java.base/sun.nio.fs=ALL-UNNAMED, --add-opens=java.base/sun.security.ssl=ALL-UNNAMED, --add-opens=java.base/sun.security.util=ALL-UNNAMED, --add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED, --add-opens=java.desktop/com.apple.eawt.event=ALL-UNNAMED, --add-opens=java.desktop/com.apple.laf=ALL-UNNAMED, --add-opens=java.desktop/java.awt=ALL-UNNAMED, --add-opens=java.desktop/java.awt.dnd.peer=ALL-UNNAMED, --add-opens=java.desktop/java.awt.event=ALL-UNNAMED, --add-opens=java.desktop/java.awt.image=ALL-UNNAMED, --add-opens=java.desktop/java.awt.peer=ALL-UNNAMED, --add-opens=java.desktop/javax.swing=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.text=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.datatransfer=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.image=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.windows=ALL-UNNAMED, --add-opens=java.desktop/sun.awt=ALL-UNNAMED, --add-opens=java.desktop/sun.font=ALL-UNNAMED, --add-opens=java.desktop/sun.java2d=ALL-UNNAMED, --add-opens=java.desktop/sun.swing=ALL-UNNAMED, --add-opens=jdk.attach/sun.tools.attach=ALL-UNNAMED, --add-opens=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED, --add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED, --add-opens=jdk.jdi/com.sun.tools.jdi=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.X11=ALL-UNNAMED, -DjbScreenMenuBar.enabled=true, -DjbScreenMenuBar.useStubItem=true, -Dintellij.platform.load.app.info.from.resources=true, -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader, -Dij.startup.error.report.url=https://youtrack.jetbrains.com/newissue?project=MPS&clearDraft=true&summary=$TITLE$&description=$DESCR$]
+2025-01-23 17:09:02,227 [     76]   INFO - #c.i.p.i.b.AppStarter - args: 
+2025-01-23 17:09:02,227 [     76]   INFO - #c.i.p.i.b.AppStarter - library path: C:\Program Files\JetBrains\MPS 2024.3\jbr\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;c:\devkitPro\msys2\usr\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Graphviz\bin;C:\Tools\chromedriver;C:\Users\rodle\.cargo\bin;C:\Users\rodle\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\rodle\AppData\Local\Programs\Python\Python312\;C:\Users\rodle\AppData\Local\Microsoft\WindowsApps;C:\Users\rodle\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rodle\.dotnet\tools;C:\Users\rodle\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Users\rodle\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\rodle\AppData\Roaming\npm;C:\Program Files\Graphviz\bin;C:\Users\rodle\.deno\bin;C:\Users\rodle\AppData\Local\Microsoft\WinGet\Packages\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\rodle\.dotnet\tools;C:\Program Files\apache\maven\apache-maven-3.9.9;;.
+2025-01-23 17:09:02,227 [     76]   INFO - #c.i.p.i.b.AppStarter - boot library path: C:\Program Files\JetBrains\MPS 2024.3\jbr\bin
+2025-01-23 17:09:02,235 [     84]   INFO - #c.i.p.i.b.AppStarter - locale=en_US JNU=Cp1252 file.encoding=UTF-8
+    idea.config.path=C:\Users\rodle\MPSSamples 2024.3\shapes\config
+    idea.system.path=C:\Users\rodle\MPSSamples 2024.3\shapes\system
+    idea.plugins.path=C:\Users\rodle\MPSSamples 2024.3\shapes\config\plugins -> java.nio.file.NoSuchFileException: C:\Users\rodle\MPSSamples 2024.3\shapes\config\plugins
+    idea.log.path=C:\Users\rodle\MPSSamples 2024.3\shapes\system\log
+2025-01-23 17:09:02,241 [     90]   INFO - #c.i.p.i.b.AppStarter - CPU cores: 16; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@6e25b8d7[Running, parallelism = 15, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@561475a9
+2025-01-23 17:09:02,338 [    187]   INFO - c.i.p.i.IdeFingerprint - Calculated dependencies fingerprint in 13 ms (hash=3fm3sun0x5gmv, buildTime=1737072000, appVersion=MPS-243.21565.447)
+2025-01-23 17:09:02,422 [    271]   INFO - #c.i.a.o.PathMacrosImpl - Loaded path macros: {}
+2025-01-23 17:09:02,435 [    284]   INFO - #c.i.o.a.ConfigImportHelper - [i18n] Localization property from registry is null
+2025-01-23 17:09:02,471 [    320]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2025-01-23 17:09:02,473 [    322]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2025-01-23 17:09:02,474 [    323]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 4181721088
+2025-01-23 17:09:02,474 [    323]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2025-01-23 17:09:02,475 [    324]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2025-01-23 17:09:02,475 [    324]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2025-01-23 17:09:02,475 [    324]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2025-01-23 17:09:02,475 [    324]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 104857600 bytes
+2025-01-23 17:09:02,486 [    335]   INFO - #c.i.o.u.r.RegistryManager - Registry values changed by user: ide.experimental.ui = true, moved.to.new.ui = true
+2025-01-23 17:09:02,493 [    342]   INFO - #c.i.o.v.n.p.PersistentFSLoader - VFS uses names enumerator over mmapped file
+2025-01-23 17:09:02,493 [    342]   WARN - #c.i.o.v.n.p.PersistentFSLoader - ContentStorage.pageSize(=67108864) must be > FileUtilRt.LARGE_FOR_CONTENT_LOADING(=102400000b), otherwise large content can't fit
+2025-01-23 17:09:02,493 [    342]   INFO - #c.i.o.v.n.p.PersistentFSLoader - VFS uses streamlined attributes storage (over mmapped file)
+2025-01-23 17:09:02,495 [    344]   INFO - #c.i.o.v.n.p.PersistentFSLoader - VFS uses content storage over memory-mapped file, with compression algo: LZ4[ > 8000b ]
+2025-01-23 17:09:02,495 [    344]   INFO - #c.i.o.v.n.p.PersistentFSLoader - VFS uses OverMMappedFile(pageSize=67108864, acquireStorageOwnership=true) storage for main file records table
+2025-01-23 17:09:02,556 [    405]   INFO - #c.i.p.u.i.s.i.e.ExtendibleMapFactory - [C:\Users\rodle\MPSSamples 2024.3\shapes\system\caches\content.dat.hashToId] was not closed properly, can't be trusted -> delete it, and re-create from 0
+2025-01-23 17:09:02,600 [    449]   WARN - #c.i.o.v.n.p.FSRecords - Records storage [C:\Users\rodle\MPSSamples 2024.3\shapes\system\caches\records.dat] was in use by process [OwnershipInfo{owner pid: 19608, acquired at: 1737673720265}] which is not exist now (wasn't closed properly/crashed?) -> re-acquiring forcibly
+2025-01-23 17:09:02,611 [    460]   INFO - #c.i.i.p.ExpiredPluginsState - Plugins to skip: []
+2025-01-23 17:09:02,617 [    466]   WARN - #c.i.o.v.n.p.d.c.VFSContentStorageOverMMappedFile - Content map[C:\Users\rodle\MPSSamples 2024.3\shapes\system\caches\content.dat.hashToId] is empty while content storage is not: re-building map from the storage
+2025-01-23 17:09:02,636 [    485]   INFO - #c.i.o.v.n.p.PersistentFSLoader - VFS: impl (expected) version=846400, 101 file records, 29 content blobs
+2025-01-23 17:09:02,636 [    485]   WARN - #c.i.o.v.n.p.PersistentFSLoader - [VFS load problem]: VFS wasn't safely shut down: records.wasClosedProperly is false
+2025-01-23 17:09:02,669 [    518]   INFO - #c.i.o.a.i.ActionManagerImpl - 'ConvertIndentsGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,670 [    519]   INFO - #c.i.o.a.i.ActionManagerImpl - 'Macros' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,672 [    521]   INFO - #c.i.o.a.i.ActionManagerImpl - 'EditorBidiTextDirection' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,689 [    538]   INFO - #c.i.o.v.n.p.r.NotClosedProperlyRecoverer - 1 not-closed-properly-related issue(s) -> trying to fix
+2025-01-23 17:09:02,690 [    539]   INFO - #c.i.o.a.i.ActionManagerImpl - 'ShowRecentFindUsagesGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,698 [    547]   INFO - #c.i.o.a.i.ActionManagerImpl - 'EditBookmarksGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,702 [    551]   INFO - #c.i.o.a.i.ActionManagerImpl - 'CodeCompletionGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,703 [    552]   INFO - #c.i.o.a.i.ActionManagerImpl - 'FoldingGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,703 [    552]   INFO - #c.i.o.a.i.ActionManagerImpl - 'ExpandToLevel' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,704 [    553]   INFO - #c.i.o.a.i.ActionManagerImpl - 'ExpandAllToLevel' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,707 [    556]   INFO - #c.i.o.a.i.ActionManagerImpl - 'RefactoringMenu' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,716 [    565]   INFO - #c.i.o.a.i.ActionManagerImpl - 'Bookmarks' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,723 [    572]   INFO - #c.i.o.a.i.ActionManagerImpl - 'MarkRootGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,734 [    583]   INFO - #c.i.o.a.i.ActionManagerImpl - 'EditorPopupMenu.GoTo' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,739 [    588]   INFO - #c.i.o.a.i.ActionManagerImpl - 'XDebugger.Watches.Inline.Popup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,740 [    589]   INFO - #c.i.o.a.i.ActionManagerImpl - 'XDebugger.Settings' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,740 [    589]   INFO - #c.i.u.i.c.d.IndexWriter - Use com.intellij.util.indexing.contentQueue.dev.MultiThreadedWithSuspendIndexWriter@2f3c3120 as (parallel) index writer implementation
+2025-01-23 17:09:02,743 [    592]   INFO - #c.i.o.a.i.ActionManagerImpl - 'TodoViewGroupByGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,744 [    593]   INFO - #c.i.o.a.i.ActionManagerImpl - 'ToolsXmlGroup' action group in 'IDEA CORE' sets isPopup=null (null).isPopup
+2025-01-23 17:09:02,754 [    603]   INFO - #c.i.o.v.n.p.r.NotClosedProperlyRecoverer - No critical errors found -> VFS looks +/- healthy
+2025-01-23 17:09:02,755 [    604]   INFO - #c.i.u.i.i.SlruIndexStorageCacheProvider - SLRU cache will be used for indexes
+2025-01-23 17:09:02,755 [    604]   INFO - #c.i.u.i.i.MapIndexStorageCacheProvider$Companion - Default index storage cache provider [com.intellij.util.indexing.impl.SlruIndexStorageCacheProvider@3f1a1ff7] is used
+2025-01-23 17:09:02,758 [    607]   WARN - #c.i.o.v.n.p.PersistentFSLoader - [VFS load problem]: NOT_CLOSED_PROPERLY recovered, no problems remain
+2025-01-23 17:09:02,769 [    618]   INFO - #c.i.o.v.n.p.FSRecordsImpl - VFS initialized: 304 ms, 0 failed attempts, 1 error(s) were recovered
+2025-01-23 17:09:02,772 [    621]   INFO - #c.i.o.v.n.p.FSRecordsImpl - VFS scanned: file-by-name index was populated
+2025-01-23 17:09:02,964 [    813]   INFO - #c.i.u.n.s.CertificateManager - Default SSL context initialized
+2025-01-23 17:09:03,036 [    885]   INFO - #o.j.i.SubServer - Built-in sub-server 'MPSInternalPortManager' started on port 63321
+2025-01-23 17:09:03,040 [    889]   INFO - #o.j.i.SubServer - Built-in sub-server 'MPSIntegrationPortManager' started on port 63331
+2025-01-23 17:09:03,041 [    890]   INFO - #o.j.i.BuiltInServerManager - built-in server started, port 63343
+2025-01-23 17:09:03,074 [    923]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\JetBrains\MPS 2024.3\bin\fsnotifier.exe
+2025-01-23 17:09:03,086 [    935]   INFO - #c.i.u.n.IdeProxySelector - unable to autodetect proxy settings, using NO_PROXY
+2025-01-23 17:09:03,107 [    956]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Native file watcher is operational.
+2025-01-23 17:09:03,111 [    960]   INFO - #c.i.o.v.i.w.WslFileWatcher - WSL file watcher: C:\Program Files\JetBrains\MPS 2024.3\bin\fsnotifier-wsl
+2025-01-23 17:09:03,513 [   1362]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'html5.custom.attributes.index' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,513 [   1362]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'IdIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,513 [   1362]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'mps.NodeUsage' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,513 [   1362]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'SchemaTypeInheritance' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,513 [   1362]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'Stubs' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,514 [   1363]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'XmlNamespaces' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,513 [   1362]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'FilenameIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,513 [   1362]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from BootstrapLibraryContributor
+2025-01-23 17:09:03,514 [   1363]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from WorkbenchLibraryContributor
+2025-01-23 17:09:03,515 [   1364]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from PluginLibraryContributor
+2025-01-23 17:09:03,515 [   1364]   INFO - jetbrains.mps.library.LibraryInitializer - Adding libraries from SetLibraryContributor
+2025-01-23 17:09:03,515 [   1364]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'fileIncludes' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,515 [   1364]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'XmlTagNames' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,515 [   1364]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'FrameworkDetectionIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,517 [   1366]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'RelaxSymbolIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,518 [   1367]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'Trigram.Index' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,518 [   1367]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'filetypes' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,519 [   1368]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'TodoIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,520 [   1369]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'DomFileIndex' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,521 [   1370]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'mps.RootNodeName' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,534 [   1383]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'mps.propvalue' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,542 [   1391]   INFO - jetbrains.mps.library.LibraryInitializer - Loading 37 libraries
+2025-01-23 17:09:03,556 [   1405]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'ModelDigest2' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,568 [   1417]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'BinaryModelDigest2' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,569 [   1418]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'json.file.root.values' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,569 [   1418]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'xmlProperties' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,570 [   1419]   INFO - #c.i.u.i.i.s.IndexStorageLayoutLocator - Layout 'default' will be used to for 'mps.ClassifierSuccessors' index (applicable providers: [default, fake-storage]) 
+2025-01-23 17:09:03,623 [   1472]   INFO - #c.i.u.i.FileBasedIndexImpl - Using nice flusher for indexes
+2025-01-23 17:09:03,633 [   1482]   INFO - #c.i.u.i.IndexDataInitializer - Index data initialization done: 595 ms. Initialized indexes: [FilenameIndex, filetypes, mps.RootNodeName, DomFileIndex, XmlTagNames, mps.NodeUsage, Trigram.Index, html5.custom.attributes.index, ModelDigest2, XmlNamespaces, SchemaTypeInheritance, RelaxSymbolIndex, mps.propvalue, BinaryModelDigest2, json.file.root.values, xmlProperties, mps.ClassifierSuccessors, IdIndex, fileIncludes, FrameworkDetectionIndex, TodoIndex, Stubs].
+2025-01-23 17:09:03,661 [   1510]   INFO - #c.i.u.i.IndexDataInitializer - Index data initialization done: 27 ms. Initialized stub indexes: {markdown.header, dom.namespaceKey, properties.index, dom.elementClass, markdown.header.anchor}.
+2025-01-23 17:09:08,020 [   5869]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished
+2025-01-23 17:09:08,060 [   5909]   INFO - jetbrains.mps.classloading.ModulesWatcher - No modules marked invalid for class loading after updating 416 (416 total in the graph)
+2025-01-23 17:09:08,068 [   5917]   INFO - jetbrains.mps.classloading.ModulesWatcher - Classloading graph update took 0.040 s (of that, graph refresh 0.016 s)
+2025-01-23 17:09:09,167 [   7016]   INFO - jetbrains.mps.plugins.PluginLoaderRegistry - Running Update Task : loaders ∆[load:1; unload:0]; contributors : [+188 / -0]; Thread[#105,AWT-EventQueue-0,6,main]
+2025-01-23 17:09:09,277 [   7126]   WARN - jetbrains.mps.plugins.applicationplugins.BaseApplicationPlugin - Destination group was not found id: Internal. Trying to insert jetbrains.mps.ide.actions.ToolsInternal_ActionGroup
+2025-01-23 17:09:10,180 [   8029]   INFO - jetbrains.mps.plugins.PluginLoaderRegistry - Loading of 6 plugins took 1.009 s
+2025-01-23 17:09:10,513 [   8362]   INFO - jetbrains.mps.plugins.PluginLoaderRegistry - Loading of 188 plugins took 0.333 s
+2025-01-23 17:09:10,522 [   8371]   INFO - #c.i.o.v.n.p.FSRecords - VFS health-check enabled: first after 600000 ms, and each following 43200000 ms, wrap in RA: true
+2025-01-23 17:09:10,658 [   8507]   INFO - #c.i.o.u.i.UpdateCheckerService - channel: release
+2025-01-23 17:09:10,752 [   8601]   INFO - #c.i.o.a.ConfigImportHelper - [i18n] Localization property from registry is en
+2025-01-23 17:09:10,753 [   8602]   INFO - #c.i.o.u.r.RegistryValue - Registry value 'i18n.locale' has changed to ''
+2025-01-23 17:09:10,804 [   8653]   INFO - #c.i.o.a.ConfigImportHelper - [i18n] Language defined from registry: en
+2025-01-23 17:09:10,825 [   8674]   INFO - #c.i.DynamicBundle - Cleanup bundle cache for messages.UIBundle
+2025-01-23 17:09:10,831 [   8680]   INFO - #c.i.DynamicBundle - Cleanup bundle cache for messages.IdeBundle
+2025-01-23 17:09:11,343 [   9192]   INFO - #c.i.DynamicBundle - Cleanup bundle cache for messages.CommonBundle
+2025-01-23 17:09:13,374 [  11223]   INFO - #c.i.o.u.r.RegistryValue - Registry value 'i18n.locale' has changed to ''
+2025-01-23 17:09:13,472 [  11321]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Loading global entities com.intellij.platform.workspace.jps.entities.SdkEntity from files
+2025-01-23 17:09:13,473 [  11322]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Loading global entities com.intellij.platform.workspace.jps.entities.LibraryEntity from files
+2025-01-23 17:09:13,491 [  11340]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.SdkEntity to files
+2025-01-23 17:09:13,493 [  11342]   INFO - #c.i.w.i.i.j.s.JpsGlobalModelSynchronizerImpl - Saving global entities com.intellij.platform.workspace.jps.entities.LibraryEntity to files
+2025-01-23 17:09:13,543 [  11392]   INFO - #c.i.a.o.PathMacrosImpl - Saved path macros: {}
+2025-01-23 17:09:13,590 [  11439]   INFO - #c.i.DynamicBundle - Cleanup bundle cache for messages.CoreBundle
+2025-01-23 17:09:13,636 [  11485]   INFO - #c.i.i.s.e.u.EventLogExternalUploader - Started external process for uploading event log
+2025-01-23 17:09:13,656 [  11505]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Watcher terminated with exit code 0
+2025-01-23 17:09:13,670 [  11519]   INFO - #fleet.kernel.Transactor - shutting down kernel Kernel(3unrig19o6m11k6o4bb1)
+2025-01-23 17:09:13,676 [  11525]   INFO - #o.j.i.BuiltInServer - web server stopped
+2025-01-23 17:09:13,680 [  11529]   INFO - #c.i.d.JVMResponsivenessMonitor - Sampling thread interrupted -> stop sampling
+2025-01-23 17:09:13,680 [  11529]   INFO - #c.i.d.JVMResponsivenessMonitor - Sampling thread exiting normally
+2025-01-23 17:09:13,681 [  11530]   INFO - jetbrains.mps.library.LibraryInitializer - Removing libraries from SetLibraryContributor
+2025-01-23 17:09:13,681 [  11530]   INFO - jetbrains.mps.library.LibraryInitializer - Removing libraries from PluginLibraryContributor
+2025-01-23 17:09:13,681 [  11530]   INFO - jetbrains.mps.library.LibraryInitializer - Removing libraries from WorkbenchLibraryContributor
+2025-01-23 17:09:13,681 [  11530]   INFO - jetbrains.mps.library.LibraryInitializer - Removing libraries from BootstrapLibraryContributor
+2025-01-23 17:09:13,682 [  11531]   INFO - jetbrains.mps.library.LibraryInitializer - Unloading 37 libraries
+2025-01-23 17:09:14,458 [  12307]   WARN - jetbrains.mps.persistence.ModelSourceRootWalker - Source root 'SourceRoot [C:/Program Files/JetBrains/MPS 2024.3/plugins/mps-kotlin/languages/kotlin/generator/templates]' does not exist, cannot traverse!
+2025-01-23 17:09:14,458 [  12307]   WARN - jetbrains.mps.persistence.DefaultModelRoot - Models have not been found within the SourceRoot [C:/Program Files/JetBrains/MPS 2024.3/plugins/mps-kotlin/languages/kotlin/generator/templates]
+2025-01-23 17:09:18,866 [  16715]   INFO - jetbrains.mps.library.LibraryInitializer - Library update is finished
+2025-01-23 17:09:18,880 [  16729]   INFO - jetbrains.mps.classloading.ModulesWatcher - Classloading graph update took 0.012 s (of that, graph refresh 0.012 s)
+2025-01-23 17:09:18,888 [  16737]   INFO - jetbrains.mps.core.platform.DynamicComponentPlugin - Component instance jetbrains.mps.migration.component.MigrationAccess@38ef2e30 removed
+2025-01-23 17:09:18,891 [  16740]   INFO - #c.i.u.i.FileBasedIndexImpl - Index dispose started
+2025-01-23 17:09:18,897 [  16746]   INFO - #c.i.u.i.PersistentDirtyFilesQueue - Dirty file ids stored. Size: 0. Index: 0 Path: C:\Users\rodle\MPSSamples 2024.3\shapes\system\index\dirty-file-ids
+2025-01-23 17:09:18,924 [  16773]   INFO - #c.i.p.s.StubIndexImpl - StubIndexExtension-s were unloaded
+2025-01-23 17:09:18,924 [  16773]   INFO - #c.i.p.s.SerializationManagerImpl - Start shutting down C:\Users\rodle\MPSSamples 2024.3\shapes\system\index\rep.names
+2025-01-23 17:09:18,924 [  16773]   INFO - #c.i.p.s.SerializationManagerImpl - Finished shutting down C:\Users\rodle\MPSSamples 2024.3\shapes\system\index\rep.names
+2025-01-23 17:09:18,925 [  16774]   INFO - #c.i.u.i.FileBasedIndexImpl - Index dispose completed in 34ms.
+2025-01-23 17:09:19,149 [  16998]   INFO - #c.i.o.v.n.p.PersistentFSImpl - VFS dispose started
+2025-01-23 17:09:19,151 [  17000]   INFO - #c.i.o.v.n.p.FSRecordsImpl - VFS closing
+2025-01-23 17:09:19,154 [  17003]   INFO - #c.i.o.v.n.p.PersistentFSImpl - VFS dispose completed in 3 ms.
+2025-01-23 17:09:19,180 [  17029]   INFO - #c.i.o.f.i.FileTypeDetectionService - 0 auto-detected files. Detection took 0 ms
+2025-01-23 17:09:19,465 [  17314]   INFO - #c.i.p.i.b.AppStarter - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------
